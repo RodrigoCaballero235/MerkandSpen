@@ -3,8 +3,9 @@ public class Articulos {
     private String descripcion;
     private int cantidad;
     private String categoria;
-
     //CONSTRUCTOR
+
+    //INTERFAZ DE ARTICULOS
 
 
     public Articulos(String nombre, String descripcion, int cantidad, String categoria) {
